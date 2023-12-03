@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohitMaheshV
-- 👀 I am providing complete web solutions to my clients via MEAN/MERN.
+- 👀 I am providing complete web solutions to my clients via WordPress, PHP, Python and MEAN/MERN.
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate from very small to very large scale business.
 - 📫 
