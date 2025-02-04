@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohitMaheshV
+- 👋 Hi, I’m @MohitV
 - 👀 I am providing complete web solutions to my clients via WordPress, PHP, Python and MEAN/MERN.
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate from very small to very large scale business.
